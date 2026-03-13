@@ -68,3 +68,4 @@ class SocialAuthController extends Controller
         return redirect('/dashboard');
     }
 }
+// Fin del controlador de autenticación social - OAuth 2.0 con Discord y GitHub
