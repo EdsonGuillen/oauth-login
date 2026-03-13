@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Iniciar Sesión</title>
+    <!-- Vista de login OAuth 2.0 - Discord y GitHub -->
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
